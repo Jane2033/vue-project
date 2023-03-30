@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-slate-500 font-NotoSans">
+  <div class="flex flex-col min-h-screen bg-gradient-to-br from-pink700 via-purple400 to-red200 font-NotoSans">
     <Navigation />
     <RouterView />
   </div>
