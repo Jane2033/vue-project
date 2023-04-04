@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@splinetool/loader": "^0.9.280",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^0.9.280",
     "gh-pages": "^5.0.0",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
